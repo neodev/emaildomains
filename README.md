@@ -1,2 +1,2 @@
 # emaildomains
-List of websites provide email service
+A list of websites that provide free email service
